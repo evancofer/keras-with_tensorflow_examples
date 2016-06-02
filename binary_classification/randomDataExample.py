@@ -94,7 +94,3 @@ with sess.as_default():
 			K.learning_phase(): 0
 		})
 
-
-
-
-
